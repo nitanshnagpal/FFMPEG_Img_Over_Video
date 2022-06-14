@@ -1,6 +1,7 @@
 /*
  * Copyright (c) 2010 Nicolas George
  * Copyright (c) 2011 Stefano Sabatini
+ * Copyright (c) 2022 Nitansh Nagpal
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -24,8 +25,7 @@
 
  /**
   * @file
-  * API example for decoding and filtering
-  * @example filtering_video.c
+  * API example to overlay image on video.
   */
 
 #define _XOPEN_SOURCE 600 /* for usleep */
